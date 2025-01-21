@@ -1,6 +1,8 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0276FF&height=150&section=header)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?width=1000&font=Fira+Code&size=26&duration=4000&pause=1000&color=0276FF&vCenter=true&lines=My+name+is+Guilherme+Cardoso;Welcome!;I'm+from+Brazil,+SP;Fullstack+Developer;I'm+19+years+old)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?width=1000&font=Fira+Code&size=26&duration=4000&pause=1000&color=0276FF&vCenter=true&lines=My+name+is+Guilherme+Cardoso;Welcome!;I'm+from+Brazil,+SP;Fullstack+Developer;I'm+19+years+old)](https://git.io/typing-   svg)
+</div>
 
 💻 Technologies
 ---
@@ -21,14 +23,14 @@
 
 📞 Contact Me
 ---
-<p>
+<div align="center">
   <a href="https://wa.me/11976698778" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:gcs200206@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/guilhermecardosodossantos/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+</div>
