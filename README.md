@@ -1,8 +1,6 @@
 # Guilherme
 
-![Visitas no perfil](https://visitor-badge.glitch.me/badge?page_id=seu-usuario)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermecardosodossantos/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-green?style=flat&logo=appveyor&logoColor=white)](https://seu-portfolio.com)
 
 ## Sobre Mim
 Desenvolvedor Fullstack | Java, Python, Javascript, HTML5, CSS, SQL  
@@ -18,14 +16,16 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas.
 
 ### Back-End
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=postgresql&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat&logo=intellijidea&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-purple?style=flat&logo=insomnia&logoColor=white)
 
 ---
 
 ## Contato
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/11976698778)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](gcs200206@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:gcs200206@gmail.com)
