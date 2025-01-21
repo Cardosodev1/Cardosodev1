@@ -1,31 +1,38 @@
-# Guilherme
+![Banner](https://readme-typing-svg.demolab.com?width=1000&font=Fira+Code&size=26&duration=4000&pause=1000&color=0276FF&vCenter=true&lines=Desenvolvedor+Back-End;Estudante+de+ADS;Apaixonado+por+Tecnologia)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermecardosodossantos/)
+<div align="center" style="background: linear-gradient(90deg, #1E90FF, #87CEEB); padding: 15px; border-radius: 8px; margin: 20px;">
+  <h2 style="color: #fff;">Desenvolvendo soluções com criatividade e eficiência 🚀</h2>
+</div>
 
-## Sobre Mim
-Desenvolvedor Fullstack | Java, Python, Javascript, HTML5, CSS, SQL  
-Atualmente cursando Análise e Desenvolvimento de Sistemas.  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?width=1000&font=Fira+Code&size=26&duration=4000&pause=1000&color=0276FF&vCenter=true&lines=My+name+is+Guilherme+Cardoso;Welcome!;I'm+from+Brazil,+SP;Fullstack+Developer;I'm+19+years+old)](https://git.io/typing-svg)
 
+💻 Technologies
 ---
-
-## Tecnologias
 ### Front-End
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,nextjs" alt="Front-End Skills" />
+</p>
 
 ### Back-End
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python" alt="Back-End Skills" />
+</p>
 
-### Ferramentas
-![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat&logo=intellijidea&logoColor=white)
-![Insomnia](https://img.shields.io/badge/-Insomnia-purple?style=flat&logo=insomnia&logoColor=white)
+### Tools and Plataforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,insomnia,docker" alt="Ferramentas" />
+</p>
 
+📞 Contact Me
 ---
-
-## Contato
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/11976698778)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:gcs200206@gmail.com)
+<p>
+  <a href="https://wa.me/11976698778" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" />
+  </a>
+  <a href="mailto:gcs200206@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/guilhermecardosodossantos/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
