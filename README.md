@@ -1,8 +1,4 @@
-![Banner](https://readme-typing-svg.demolab.com?width=1000&font=Fira+Code&size=26&duration=4000&pause=1000&color=0276FF&vCenter=true&lines=Desenvolvedor+Back-End;Estudante+de+ADS;Apaixonado+por+Tecnologia)
-
-<div align="center" style="background: linear-gradient(90deg, #1E90FF, #87CEEB); padding: 15px; border-radius: 8px; margin: 20px;">
-  <h2 style="color: #fff;">Desenvolvendo soluções com criatividade e eficiência 🚀</h2>
-</div>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0276FF&height=150&section=header)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?width=1000&font=Fira+Code&size=26&duration=4000&pause=1000&color=0276FF&vCenter=true&lines=My+name+is+Guilherme+Cardoso;Welcome!;I'm+from+Brazil,+SP;Fullstack+Developer;I'm+19+years+old)](https://git.io/typing-svg)
 
