@@ -13,7 +13,7 @@
 
 ### Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python" alt="Back-End Skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,python" alt="Back-End Skills" />
 </p>
 
 ### Tools and Plataforms
